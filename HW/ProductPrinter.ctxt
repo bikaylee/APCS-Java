@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProductPrinter()
+comment1.params=name
+comment1.target=java.lang.String\ getName(java.lang.String)
+comment2.params=amount
+comment2.target=double\ getPrice(double)
+comment3.params=amount
+comment3.target=double\ reducePrice(double)
+numComments=4
