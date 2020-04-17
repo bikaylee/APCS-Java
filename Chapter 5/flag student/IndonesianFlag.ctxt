@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Color\ getColorAt(int,\ int)
+comment0.text=\r\n\ Method\ getColorAt\ -\ returns\ the\ proper\ color\ in\ the\ proper\ location\ for\ the\r\n\ Indonesian\ flag\r\n\ @param\ \ x,y\ the\ location\ of\ the\ pixel.\ \ 0,0\ is\ top\ left\ and\ we\ count\ downward.\r\n\ @return\ \ returns\ the\ proper\ color\ at\ that\ location\r\n
+comment1.params=width\ height
+comment1.target=IndonesianFlag(int,\ int)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ the\ flag.\ \ It\ can\ come\ after\r\n\ the\ other\ methods\ but\ we\ usually\ put\ it\ first.\ \ Don't\ \r\n\ worry\ about\ the\ code\ here.\r\n\ \r\n\ If\ you\ are\ making\ other\ flags,\ you\ will\ have\ to\ change\r\n\ the\ name\ of\ the\ constructor\ to\ match\ the\ class.\r\n
+numComments=2

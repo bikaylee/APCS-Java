@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.7.0_25\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian
+-d
+C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\Flag.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\Flag.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_25
+Building tree for all the packages and classes...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\Flag.html...
+C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\Flag.java:12: warning - @return tag has no arguments.
+C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\Flag.java:12: warning - @param argument "x,y" is not a parameter name.
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\package-frame.html...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\package-summary.html...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\allclasses-frame.html...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\allclasses-noframe.html...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\index.html...
+Generating C:\Users\John Hajel\Google Drive\APCS\Programming\lesson5-1\indonesian\doc\stylesheet.css...
+2 warnings

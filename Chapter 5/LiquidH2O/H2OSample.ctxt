@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=initTemp
+comment0.target=H2OSample(double)
+comment0.text=\r\n\ Construstor\ with\ one\ construction\ \ argument\r\n\ \r\n\ @param\ initTemp\ initial\ temperature\ of\ the\ sample\ (c)\r\n
+comment1.params=
+comment1.target=boolean\ isLiquid()
+comment1.text=\r\n\ Method\ to\ determine\ if\ the\ sample\ is\ a\ liquid\r\n\ \r\n\ @return\ boolean\ that\ is\ true\ if\ the\ sample\ is\ a\ liquid\r\n
+numComments=2

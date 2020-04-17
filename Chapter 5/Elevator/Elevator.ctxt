@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elevator()
+comment0.text=\r\n\ Constructor\ with\ no\ arguments.\ initializes\ \r\n\ actualFloor\ to\ 1.\r\n
+comment1.params=initialFloor
+comment1.target=Elevator(int)
+comment1.text=\r\n\ Constructor\ with\ 1\ argument.\ \r\n\ It\ is\ overload\ meaning\ that\ it\ has\ the\ same\ return\ type\ but\ different\ arguments.\r\n\ (either\ different\ number\ of\ arguments\ or\ types)\r\n\ \r\n\ @param\ initialFloor\ the\ intial\ floor\r\n
+comment2.params=desiredFloor
+comment2.target=void\ pressDesiredFloor(int)
+comment3.params=
+comment3.target=int\ getActualFloor()
+comment3.text=\r\n\ returns\ floor\ of\ building\r\n\ \r\n\ @return\ actual\ Floor\ of\ building\r\n
+numComments=4
